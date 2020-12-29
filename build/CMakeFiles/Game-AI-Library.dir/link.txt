@@ -1,0 +1,1 @@
+/usr/bin/g++-9  -g  -rdynamic CMakeFiles/Game-AI-Library.dir/main.cpp.o  -o Game-AI-Library  -Wl,-rpath,/home/alegruz/workspace/Game-AI-Library/build/game_ai_library/machine_learning/cnn game_ai_library/machine_learning/cnn/libCNN.so 

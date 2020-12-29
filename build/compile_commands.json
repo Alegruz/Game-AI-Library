@@ -1,0 +1,42 @@
+[
+{
+  "directory": "/home/alegruz/workspace/Game-AI-Library/build",
+  "command": "/usr/bin/g++-9   -I/home/alegruz/workspace/Game-AI-Library/build -I/home/alegruz/workspace/Game-AI-Library/game_ai_library/machine_learning/cnn  -g   -std=gnu++17 -o CMakeFiles/Game-AI-Library.dir/main.cpp.o -c /home/alegruz/workspace/Game-AI-Library/main.cpp",
+  "file": "/home/alegruz/workspace/Game-AI-Library/main.cpp"
+},
+{
+  "directory": "/home/alegruz/workspace/Game-AI-Library/build/game_ai_library/machine_learning/cnn",
+  "command": "/usr/bin/g++-9  -DCNN_EXPORTS  -g -fPIC   -std=gnu++17 -o CMakeFiles/CNN.dir/ConvLayer.cpp.o -c /home/alegruz/workspace/Game-AI-Library/game_ai_library/machine_learning/cnn/ConvLayer.cpp",
+  "file": "/home/alegruz/workspace/Game-AI-Library/game_ai_library/machine_learning/cnn/ConvLayer.cpp"
+},
+{
+  "directory": "/home/alegruz/workspace/Game-AI-Library/build/game_ai_library/machine_learning/cnn",
+  "command": "/usr/bin/g++-9  -DCNN_EXPORTS  -g -fPIC   -std=gnu++17 -o CMakeFiles/CNN.dir/Galdef.cpp.o -c /home/alegruz/workspace/Game-AI-Library/game_ai_library/machine_learning/cnn/Galdef.cpp",
+  "file": "/home/alegruz/workspace/Game-AI-Library/game_ai_library/machine_learning/cnn/Galdef.cpp"
+},
+{
+  "directory": "/home/alegruz/workspace/Game-AI-Library/build/game_ai_library/machine_learning/cnn",
+  "command": "/usr/bin/g++-9  -DCNN_EXPORTS  -g -fPIC   -std=gnu++17 -o CMakeFiles/CNN.dir/Image.cpp.o -c /home/alegruz/workspace/Game-AI-Library/game_ai_library/machine_learning/cnn/Image.cpp",
+  "file": "/home/alegruz/workspace/Game-AI-Library/game_ai_library/machine_learning/cnn/Image.cpp"
+},
+{
+  "directory": "/home/alegruz/workspace/Game-AI-Library/build/game_ai_library/machine_learning/cnn",
+  "command": "/usr/bin/g++-9  -DCNN_EXPORTS  -g -fPIC   -std=gnu++17 -o CMakeFiles/CNN.dir/Layer.cpp.o -c /home/alegruz/workspace/Game-AI-Library/game_ai_library/machine_learning/cnn/Layer.cpp",
+  "file": "/home/alegruz/workspace/Game-AI-Library/game_ai_library/machine_learning/cnn/Layer.cpp"
+},
+{
+  "directory": "/home/alegruz/workspace/Game-AI-Library/build/game_ai_library/machine_learning/cnn",
+  "command": "/usr/bin/g++-9  -DCNN_EXPORTS  -g -fPIC   -std=gnu++17 -o CMakeFiles/CNN.dir/NeuralNetwork.cpp.o -c /home/alegruz/workspace/Game-AI-Library/game_ai_library/machine_learning/cnn/NeuralNetwork.cpp",
+  "file": "/home/alegruz/workspace/Game-AI-Library/game_ai_library/machine_learning/cnn/NeuralNetwork.cpp"
+},
+{
+  "directory": "/home/alegruz/workspace/Game-AI-Library/build/game_ai_library/machine_learning/cnn",
+  "command": "/usr/bin/g++-9  -DCNN_EXPORTS  -g -fPIC   -std=gnu++17 -o CMakeFiles/CNN.dir/TrainData.cpp.o -c /home/alegruz/workspace/Game-AI-Library/game_ai_library/machine_learning/cnn/TrainData.cpp",
+  "file": "/home/alegruz/workspace/Game-AI-Library/game_ai_library/machine_learning/cnn/TrainData.cpp"
+},
+{
+  "directory": "/home/alegruz/workspace/Game-AI-Library/build/game_ai_library/machine_learning/cnn",
+  "command": "/usr/bin/g++-9  -DCNN_EXPORTS  -g -fPIC   -std=gnu++17 -o CMakeFiles/CNN.dir/VggNet.cpp.o -c /home/alegruz/workspace/Game-AI-Library/game_ai_library/machine_learning/cnn/VggNet.cpp",
+  "file": "/home/alegruz/workspace/Game-AI-Library/game_ai_library/machine_learning/cnn/VggNet.cpp"
+}
+]

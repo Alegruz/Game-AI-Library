@@ -1,0 +1,1 @@
+/usr/bin/g++-9 -fPIC -g  -shared -Wl,-soname,libCNN.so -o libCNN.so CMakeFiles/CNN.dir/ConvLayer.cpp.o CMakeFiles/CNN.dir/Galdef.cpp.o CMakeFiles/CNN.dir/Image.cpp.o CMakeFiles/CNN.dir/Layer.cpp.o CMakeFiles/CNN.dir/NeuralNetwork.cpp.o CMakeFiles/CNN.dir/TrainData.cpp.o CMakeFiles/CNN.dir/VggNet.cpp.o 

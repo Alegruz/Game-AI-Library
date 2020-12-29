@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/alegruz/workspace/Game-AI-Library/game_ai_library/machine_learning/cnn/Filter.h
+cassert
+-
+cstddef
+-
+memory
+-
+vector
+-
+
+/home/alegruz/workspace/Game-AI-Library/game_ai_library/machine_learning/cnn/Galdef.h
+
+/home/alegruz/workspace/Game-AI-Library/game_ai_library/machine_learning/cnn/Image.h
+iostream
+-
+memory
+-
+string
+-
+Galdef.h
+/home/alegruz/workspace/Game-AI-Library/game_ai_library/machine_learning/cnn/Galdef.h
+
+/home/alegruz/workspace/Game-AI-Library/main.cpp
+iostream
+-
+memory
+-
+game_ai_library/machine_learning/cnn/Galdef.h
+/home/alegruz/workspace/Game-AI-Library/game_ai_library/machine_learning/cnn/Galdef.h
+game_ai_library/machine_learning/cnn/Filter.h
+/home/alegruz/workspace/Game-AI-Library/game_ai_library/machine_learning/cnn/Filter.h
+game_ai_library/machine_learning/cnn/Image.h
+/home/alegruz/workspace/Game-AI-Library/game_ai_library/machine_learning/cnn/Image.h
+
